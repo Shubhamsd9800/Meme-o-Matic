@@ -47,7 +47,7 @@ After installing the dependencies, you can start the application by running:
 
 ```bash
 npm start
-
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
